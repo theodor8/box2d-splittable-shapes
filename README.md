@@ -1,2 +1,8 @@
-compile: g++ *.cpp -I/opt/homebrew/include -L/opt/homebrew/lib -lSDL2 -lSDL2_image -lbox2d -std=c++17
+Shapes split by receiving high impulse or by being cut by mouse cursor (hold m1).
+![alt text](image.png)
 
+# Compile (mac)
+run "make demo"
+
+# Run
+run "./demo.out"
