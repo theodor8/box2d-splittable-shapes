@@ -1,5 +1,5 @@
 Shapes split by receiving high impulse or by being cut by mouse cursor (hold m1).
-![alt text](image.png)
+<img src="image.png" alt="drawing" width="200"/>
 
 # Compile (mac)
 run "make demo"
