@@ -41,7 +41,7 @@ int main()
     world->SetContactListener(&contactListener);
     debugDraw.SetFlags(b2Draw::e_shapeBit);
     // x, y 0 i mitten, y ökar ner
-    
+
 
 
     b2Body* groundBody;
